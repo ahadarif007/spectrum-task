@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spectrum-302020",
+  "private_key_id": "761e674e714f11ebf01e30e47d5c2825b060915d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDD4yFCydp0GTR1\nAkyAIE1w1QQnkscSzPRyHWLbFvZzxG68eIOXVF8gwG63e5AYmgtG9BvoljK9b7ku\n+DmIB7NLD+l//5Zf5wilxQcSJiLCCBZbeBVTI6SuG1A6YZaw20DgXYaC2HZ15Qmn\n9UNQDGqIuL0Nu2A+W19fmCDDuVYbCG/NWsmIEVPBA1A/v1xtWAyw3eQrUgwD8JH3\nU/tt/FlYwFVvDPE561smM5yUjwKjv9q7QZ95BxS1wzNH/XKTEJzkbtT33mrf7t1X\nQcXT6XA8lDmcuOUAuDD9AJT/gUnShagYPYweWXF7rtQiXzZBdipBggH95P7P6/rK\nT3LQaRWjAgMBAAECggEAR/rkM/icb2D7p6tqlQJJspZz6l7DDCOIB47Izp0Hfs7F\nqjfWkvsL4asUhBPBhWjFkBMPVk4q4vV05M+NxHCf74svUDuI9ECfKtrVmFOvHgF+\nxanAnEZSsy+SMYG+r8pBcrCrRtVn4jaBb9huHbISS58myS77VK6awzPRhlpKS7AO\nEJWLCunh7IOsOhWGV/JrQ6MgsVs170OChqjpxykSSeNK8bVqgPpGsdvxM5hWWtiE\n0SVlgZ0xLX31zPeX6Hd9QktqivXWi+R3LJLyn+cheuYGmjQvLak4tJDOsqgy3Xmo\nysdoi03dlQ0eSqJT7yaHLPbh9o/G4L23Ciwlym/dsQKBgQD+HniXCqIocXphgjX+\nNE2kRADmfG3eKe71F9yLBPz9b41zq2VqcPe/WUxPwnyaxKdPpWUxNG7D4/kdV/k2\nMRMJpMCLgGAf7sds737GDl1J01G4AnD/5W/1CHpGljy/QdP8CHLbzqfKh2fppRZX\n+FwOQpVUqp7inSOPQImuoI6ThwKBgQDFVlDSEWCpFbBXjuStnajO9whGMsBMcNB1\n1iOagWrArSm7H3m6jPIU0JiaXP6Bmwf2qwYYQfj1WUWN1ogK+OfDvycaQ5eI0EDF\nPuW58UiGvjkHgAP5PfmxfI5D/8iuel1e4XZrJIfHys+r9t4yhqWTdwv79Adaw1lr\nmmgyzNMsBQKBgBzFXmnbblid4HlBwNMzIMdEW8W8uMO6g6+EMBgdTHd1NdKuySCw\nAZzMg3NUVb9AHKFL3JUhlpjfKslDuJeGHt2spZAlzLxQ0Ito4jWSUsWVA1+OBzUx\nyOc5On7ba61LyrByVG7GiwDHK+CsLEdxexqyNy4K00pc+DWz3OLEkt/pAoGAQQrX\nLrYdlv2YFvP5OaRKfJT9vC2EJm3Ut9Ix//4CEqnApHWWaL+GFwg+FDrshAl2UX5D\nTwGHrk6TV1HLm1o5AdLib4yxyJ1ji9/UVjpJ/md6Ypd2N9OOlkqIla8cFS4t0lUb\n8+qhel/FnVeMGzk4H+fQImZneioDMi09hOjv/YUCgYEAtWmA6n4RcE33J9BN/t9Q\nsQlYkHbVqaleLvYaH9DejW1grkFZ+L8yOTkuoQNQ12EkvlBJ0vHFueRCFC8jjSs2\np7TabxYIxQhTS1yK8swbzmxtAmenFBLw4h2mh1lDd7jO3collxrkJywqjoIEAe/y\nyIIZAQrWQ7ttbSBfBkLdjr0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spectrum-task@spectrum-302020.iam.gserviceaccount.com",
+  "client_id": "112231615534887997563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spectrum-task%40spectrum-302020.iam.gserviceaccount.com"
+}
